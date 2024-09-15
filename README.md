@@ -2,7 +2,7 @@
 
 Site Under Development
 
-Open Only Desktop
+Open Only Desktop (not responsive)
 
 
 LIVE DEMO: https://harry7705.github.io/Sukuna-Animation-Loading-page/
